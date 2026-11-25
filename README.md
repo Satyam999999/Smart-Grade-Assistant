@@ -6,9 +6,9 @@ An end-to-end **AI-powered handwritten exam grading system** that transcribes mu
 
 ## 🎥 Full Workflow Demo
 
-<video src="https://github.com/Satyam999999/Smart-Grade-Assistant/raw/main/DEMO.mp4" controls width="100%"></video>
+![Smart Grade Assistant Workflow Demo](./DEMO.gif)
 
-> Can't see the embedded player? **[▶ Watch / Download `DEMO.mp4`](./DEMO.mp4)**
+> *2× speed auto-playing preview — **[▶ Watch Full HD Recording (`DEMO.mp4`)](./DEMO.mp4)***
 
 ---
 
@@ -60,7 +60,8 @@ Smart-Grade-Assistant/
 ├── Dockerfile               # Multi-stage production container (Node build + Python runtime)
 ├── .env.example             # Environment variable template for Groq API key rotation
 ├── dev.sh                   # One-command local dev launcher
-├── DEMO.mp4                 # End-to-end screen recording of the grading workflow
+├── DEMO.gif                 # Auto-playing workflow preview for README
+├── DEMO.mp4                 # Full HD screen recording of the grading workflow
 └── README.md
 ```
 

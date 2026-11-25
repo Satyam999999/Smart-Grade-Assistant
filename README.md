@@ -6,9 +6,10 @@ An end-to-end **AI-powered handwritten exam grading system** that transcribes mu
 
 ## 🎥 Full Workflow Demo
 
-![Smart Grade Assistant Workflow Demo](./DEMO.gif)
 
-> *2× speed auto-playing preview — **[▶ Watch Full HD Recording (`DEMO.mp4`)](./DEMO.mp4)***
+
+https://github.com/user-attachments/assets/dbb79103-1a32-4e33-9a1f-1d117c3a68b6
+
 
 ---
 
